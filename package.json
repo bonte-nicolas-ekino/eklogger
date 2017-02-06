@@ -1,0 +1,17 @@
+{
+  "name": "eklogger",
+  "version": "0.1.0",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "prettyoutput": "1.1.1",
+    "uuid": "3.0.1"
+  },
+  "devDependencies": {
+    "ava": "0.17.0",
+    "eslint": "3.14.0",
+    "git-changelog": "1.1.2",
+    "nyc": "10.1.2",
+    "prettier": "0.10.0",
+    "sinon": "1.17.7"
+  }
+}
